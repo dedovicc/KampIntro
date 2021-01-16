@@ -20,6 +20,7 @@ namespace DegerVeReferansTipler
             int sayi2 = 30;
             sayi1 = sayi2;
             sayi2 = 65;
+
             // sayi1 = 30, sayi2 = 65 olur
 
             //Burda referans tipi anlatmış oldu.
