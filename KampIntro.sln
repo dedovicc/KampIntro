@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{66C1BD95-0766-45D3-A297-D2820D393AFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{11FE9B25-E24B-4E87-B723-47A9DC025E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{11FE9B25-E24B-4E87-B723-47A9DC025E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{808AAF73-5016-4416-A811-9957EC5BAA33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{808AAF73-5016-4416-A811-9957EC5BAA33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{AA3D62BD-9911-4F82-BC95-BAF99FCA7C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{AA3D62BD-9911-4F82-BC95-BAF99FCA7C6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{9377D3EE-4B59-4AC8-B0C7-2706BF80F119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2_6", "Homework2_6\Homework2_6.csproj", "{92A2FACE-69B6-453C-B83A-21BE93617D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,9 +49,16 @@ Global
 		{AA3D62BD-9911-4F82-BC95-BAF99FCA7C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3D62BD-9911-4F82-BC95-BAF99FCA7C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3D62BD-9911-4F82-BC95-BAF99FCA7C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A2FACE-69B6-453C-B83A-21BE93617D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A2FACE-69B6-453C-B83A-21BE93617D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A2FACE-69B6-453C-B83A-21BE93617D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A2FACE-69B6-453C-B83A-21BE93617D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92A2FACE-69B6-453C-B83A-21BE93617D79} = {9377D3EE-4B59-4AC8-B0C7-2706BF80F119}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B863606-67E0-4E62-A646-F48EE31E383A}
