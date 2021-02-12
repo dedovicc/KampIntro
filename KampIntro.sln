@@ -19,17 +19,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2_6", "Homework2_6\Homework2_6.csproj", "{92A2FACE-69B6-453C-B83A-21BE93617D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-Diziler", "Arrays-Diziler\Arrays-Diziler.csproj", "{929ED258-53FE-48AA-9060-EA7E6F84F134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays-Diziler", "Arrays-Diziler\Arrays-Diziler.csproj", "{929ED258-53FE-48AA-9060-EA7E6F84F134}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_3_3_ClassMetotDemo", "Homework_3_3_ClassMetotDemo\Homework_3_3_ClassMetotDemo.csproj", "{F49AA316-9361-4900-B9CA-04FBA96F7939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_3_3_ClassMetotDemo", "Homework_3_3_ClassMetotDemo\Homework_3_3_ClassMetotDemo.csproj", "{F49AA316-9361-4900-B9CA-04FBA96F7939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2BCBA927-2AF7-471B-B7D7-A64AA62ED096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{2BCBA927-2AF7-471B-B7D7-A64AA62ED096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{D4AE64AA-7FD6-4CB3-AF41-BB678FADE7E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{D4AE64AA-7FD6-4CB3-AF41-BB678FADE7E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{7D1BB976-04EC-4B8C-9EB8-886715EA2D7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{7D1BB976-04EC-4B8C-9EB8-886715EA2D7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4_5_MyDictionary", "Homework_4_5_MyDictionary\Homework_4_5_MyDictionary.csproj", "{60379A14-A729-4BF8-811C-FE72DFB52C04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_4_5_MyDictionary", "Homework_4_5_MyDictionary\Homework_4_5_MyDictionary.csproj", "{60379A14-A729-4BF8-811C-FE72DFB52C04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{D22264A1-5A7C-4C4A-887C-E616D81409A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{CA7B50FD-B512-4A94-B700-3AB0B47BF6AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +93,14 @@ Global
 		{60379A14-A729-4BF8-811C-FE72DFB52C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60379A14-A729-4BF8-811C-FE72DFB52C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60379A14-A729-4BF8-811C-FE72DFB52C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22264A1-5A7C-4C4A-887C-E616D81409A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22264A1-5A7C-4C4A-887C-E616D81409A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22264A1-5A7C-4C4A-887C-E616D81409A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22264A1-5A7C-4C4A-887C-E616D81409A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7B50FD-B512-4A94-B700-3AB0B47BF6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7B50FD-B512-4A94-B700-3AB0B47BF6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7B50FD-B512-4A94-B700-3AB0B47BF6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7B50FD-B512-4A94-B700-3AB0B47BF6AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

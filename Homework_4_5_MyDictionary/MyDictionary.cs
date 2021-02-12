@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Homework_4_5_MyDictionary
 {
-    class MyDictionary<TKey, TValue>
+    class MyDictionary <TKey, TValue>
     {
 
         TKey[] keys;
